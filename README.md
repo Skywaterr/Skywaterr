@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Skywaterr
-- ◓ I’m interested in being the best programmer there ever was
-- 🌱 I’m currently learning HTTP and APIs
--    Also learning how to manage time:)
-- 📫 How to reach me: I check my email daily! jleung12333@gmail.com
+
